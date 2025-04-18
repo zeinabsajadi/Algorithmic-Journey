@@ -15,6 +15,16 @@
 🎯 هدف: ساخت پایه‌های قوی علوم کامپیوتر برای مصاحبه‌ها و برنامه‌نویسی رقابتی
 
 ---
+## 🏗 Repository Structure / ساختار مخزن
+Algorithmic-Journey/
+├── LeetCode-Solutions/ # Standard LeetCode solutions
+│ ├── 88-Merge-Sorted-Array.py
+│ └── ...
+├── Custom-Problems/ # Enhanced custom problems
+│ ├── Inplace-Merge-Special-Case.py
+│ └── ...
+├── Theory-Notes/ # Theoretical analysis (Markdown/PDF)
+
 ## 🚀 How to Use / نحوه استفاده
 
 **English**:  
