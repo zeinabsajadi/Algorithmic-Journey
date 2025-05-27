@@ -1,3 +1,7 @@
+#سوال :
+#چطور لیست را به گونه ای به دو لیست کوچکتر تقسیم کنیم که مجموع حاصل دو لیست زیر مجموعه کمتر از 
+#N/2 بشود
+
 def divide_list(arr):
     arr.sort(reverse=True)  # مرتب‌سازی نزولی
     group1 = []
@@ -13,3 +17,4 @@ def divide_list(arr):
             sum2 += num
     return group1, group2
 
+# پیچیدگی زمانی این الگوریتم برابر با o(nlogn)
