@@ -13,3 +13,13 @@ def binary_search(arr, target):
             right = mid - 1
 
     return -1  # عنصر وجود ندارد
+        
+
+
+
+
+
+
+
+
+
